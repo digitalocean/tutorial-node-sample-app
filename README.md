@@ -1,3 +1,6 @@
+> ⚠️ **This repository is archived and kept for reference purposes only.**  
+> It is no longer maintained and will not receive updates or support.
+
 # tutorial-node-sample-app
 A 'Hello World' Node.JS sample app that can be used for DigitalOcean Product Docs tutorials.
 
